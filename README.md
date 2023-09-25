@@ -1,6 +1,5 @@
 # Network Traffic Analysis for Operating System Detection
 
-![Project Logo](images/project_logo.png)
 
 ## Table of Contents
 - [Overview](#overview)
